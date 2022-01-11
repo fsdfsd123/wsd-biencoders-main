@@ -1,2 +1,2 @@
-# wsd-biencoders-main
-wsd-triple-encoders
+
+# wsd-triple-encoders
